@@ -1,4 +1,4 @@
-# Deciphering-Symmetric-and-Asymmetric-Encryption-
+# Deciphering Symmetric and Asymmetric Encryption
 
 In the digital age, encryption is the cornerstone of data security, safeguarding information as it traverses the vast expanse of the internet. Symmetric and asymmetric encryption are two fundamental techniques that underpin most modern encryption systems. Understanding how these mechanisms work and their key differences is crucial for anyone involved in cybersecurity. Let’s explore the intricacies of symmetric and asymmetric encryption, their practical use cases, and provides insights into their configuration, aiming to enhance your cybersecurity posture. 
 
